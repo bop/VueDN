@@ -1,12 +1,12 @@
 ---
 home: true
-title: Vuepress-Decap-Netlify
-tagline: A Vuepress boilerplate integrated with Decap CMS hosted on Netlify
-heroText: Vuepress-Decap-Netlify
+title: La Comédie
+tagline: Une épopée moderne dans l'espace intersidéral qui finit bien
+heroText: La Comédie
 heroImage: hero.png
 actions:
-  - text: Set up this template
-    link: /template
+  - text: Lire le poème
+    link: /songs/2023-09-30/
     type: primary
 ---
 
