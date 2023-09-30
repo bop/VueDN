@@ -3,7 +3,7 @@ contributors: false
 lastUpdated: false
 ---
 
-# Using this template
+# Using bop
 
 ## Prerequisites
 
