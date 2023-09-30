@@ -1,6 +1,8 @@
 ---
-contributors: false
 lastUpdated: false
+contributors: false
+externalLinkIcon: true
+date: 2023-09-30
 ---
 
 # All Songs
@@ -47,3 +49,4 @@ The pages have a standard format.
 ## Popular songs
 
 - [Tuko tayari (Mwanga Band)](/songs/2023-04-10)
+- [La Comédie (Les Trois Cimes)](/songs/2023-09-30)
