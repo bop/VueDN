@@ -1,11 +1,11 @@
 ---
 home: true
-title: La Comédie
-tagline: Une épopée moderne dans l'espace intersidéral qui finit bien
-heroText: La Comédie
+title: Un dernier regard
+tagline: Une épopée dans le dédale des archives avant le cycle de leur embrasement 
+heroText: Un dernier regard
 heroImage: hero.png
 actions:
-  - text: Lire le poème
+  - text: Plonger dans les archives !
     link: /songs/2023-09-30/
     type: primary
 ---
