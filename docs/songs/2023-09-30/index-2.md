@@ -10,5 +10,5 @@ date: 2023-09-30
 
 1. [Les yeux ouverts](/songs/2023-09-30/index-3)
 2. [Un pas](/songs/2023-09-30/index-4)
-<hr>
+
 ## Puis : plus rien
