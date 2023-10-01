@@ -13,7 +13,7 @@ import { description } from "../../package.json";
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
-  lang: "en-US",
+  lang: "fr",
   // Global title in HTML <head>.
   // If page has title (in frontmatter) or h1 then: <page title/h1> | <global title>
   // e.g <title>Vuepress-DecapCMS-Netlify | VueDN</title>
@@ -47,10 +47,10 @@ export default defineUserConfig({
       },
       {
         text: "GitHub",
-        link: "https://github.com/NdagiStanley/VueDN",
+        link: "https://github.com/bop/VueDN",
       },
     ],
-    // notice there's a difference between /songs and /songs/
+    // notice there is a difference between /songs and /songs/
     // We have the /songs to enable this sidebar for /songs and /songs/ paths
     sidebar: {
       "/songs": [

@@ -1,0 +1,1 @@
+import{_ as s,p as c,q as t,R as e}from"./framework-5866ffd3.js";const o={},n=e("div",{class:"center"},[e("div",{class:"spaced"}," Développement : emacs -- PDF : LaTeX -- Poèmes : B. Ossipov ")],-1),a=[n];function _(r,d){return c(),t("div",null,a)}const l=s(o,[["render",_],["__file","index.html.vue"]]);export{l as default};
