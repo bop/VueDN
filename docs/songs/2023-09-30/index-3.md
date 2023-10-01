@@ -1,7 +1,7 @@
 ---
 lastUpdated: true
 contributors: true
-externalLinkIcon: true
+externalLinkIcon: false
 date: 2023-09-30
 ---
 # Les Yeux Ouverts

@@ -5,10 +5,10 @@
       Released under the <a href="https://choosealicense.com/licenses/mit/" target="_blank">MIT License</a>
     </div>
     <div>
-      By <a href="https://md.engineer" target="_blank">Stan_MD</a> | AD {{ year }}
+      By <a href="https://poetic.ch" target="_blank">B. Ossipov</a> {{ year }}
     </div>
     <div>
-      <a href="https://github.com/NdagiStanley/VueDN " target="_blank">GitHub Repository</a>
+      <a href="https://github.com/bop/VueDN " target="_blank">GitHub Repository</a>
     </div>
   </div>
 </template>
