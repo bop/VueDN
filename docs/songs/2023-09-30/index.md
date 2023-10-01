@@ -9,8 +9,7 @@ date: 2023-09-30
 1. Composition : 
 
 * 4 Parties : été, automne, hiver, printemps, composées de :
-* 13 strophes, composées de :
-* 7 vers (6 + 1)
+* 13 strophes
 
 2. Descriptif :
 
